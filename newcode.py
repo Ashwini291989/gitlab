@@ -1,1 +1,1 @@
-This is new playbook
+print("This is new playbook")
